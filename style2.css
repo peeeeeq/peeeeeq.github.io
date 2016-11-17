@@ -7,12 +7,13 @@ body {
 #cover {
     height: 900px;
     position: relative;
-    top: -55px;
+    top: -40px;
     width: 100%;
     background:
     url("http://images.cqwin.com/upfile/newsfile/car/2014/03/8908e3b5-5911-46e8-a999-493968770f02.jpg") no-repeat top center;
-    background-size: cover;
+    background-size: 70%;
     background-attachment: scroll;
+    opacity:inherit;
     /*background-image: -webkit-linear-gradient(#FFD194, #BC1324);*/
 }
 
@@ -61,9 +62,10 @@ h1 {
     color: #FFF;
     font-family: 'Amatic SC', cursive;
     font-size: 72px;
-    line-height: 60px;
+    line-height: 30px;
     padding: 20px 20px;
     text-align: center;
+    top: -10px;
 }
 
 h2 {
@@ -116,6 +118,7 @@ a {
     font-family: 'Amatic SC', cursive;
     font-size: 26px;
     padding: 5px 20px;
+    letter-spacing: 3px;
 }
 
 .products {
@@ -129,13 +132,14 @@ a {
 
 .product {
     display: inline-block;
-    margin: 0px 2% 80px 2%;
+
+    margin: 0px 2% 0px 2%;
     text-align: center;
     width: 45%;
 }
 
 .product img {
-    width: 100%;
+    width: 85%;
 }
 
 .blue {

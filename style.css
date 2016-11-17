@@ -11,8 +11,8 @@ html, body {
 
 .jumbotron {
     background: url(http://pic.pimg.tw/betty28mike/1411977776-1085803932_n.jpg) no-repeat center center;
-    background-size: contain;
-    height:850px;
+    background-size: 50%;
+    height:700px;
 }
 
 .header {
