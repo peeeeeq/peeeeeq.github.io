@@ -5,7 +5,7 @@ body {
 }
 
 #cover {
-    height: 900px;
+    height: 800px;
     position: relative;
     top: -40px;
     width: 100%;
@@ -54,7 +54,7 @@ li {
     margin: 0 auto;
     position: relative;
     text-align: center;
-    top: 280px;
+    top: 230px;
     width: 70%;
 }
 
@@ -62,7 +62,7 @@ h1 {
     color: #FFF;
     font-family: 'Amatic SC', cursive;
     font-size: 72px;
-    line-height: 30px;
+    line-height: 5px;
     padding: 20px 20px;
     text-align: center;
     top: -10px;
